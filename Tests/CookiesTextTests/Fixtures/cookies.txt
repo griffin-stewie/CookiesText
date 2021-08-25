@@ -1,0 +1,17 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.example.com/"
+#   2) curl --cookie cookies.txt "https://www.example.com/"
+#   3) aria2c --load-cookies cookies.txt "https://www.example.com/"
+#
+.xp.example.com	TRUE	/report	TRUE	0	xp_aostkn	AAAkDg4uAxlfsL7MbMt5wJiqnonFXpiqnonAAAA
+.example.com	TRUE	/	TRUE	0	s_cc	true
+.example.com	TRUE	/	FALSE	0	s_orientation	%5B%5BB%5D%5D
+.example.com	TRUE	/	TRUE	0	site	JPN
+.example.com	TRUE	/	FALSE	0	geo	JP
+example.com	FALSE	/	TRUE	0	JSESSIONID	AEA41787AC9917F2A65FCE8259991AAA
+.example.com	TRUE	/	FALSE	0	s_sq	%5B%5BB%5D%5D
+.example.com	TRUE	/	TRUE	0	as_pcts	4G4J_mpgdXg45i+8Jkz9Xdsd1Gp37yByHSW6duNRZJEtQJQTnbcc54ZL-UAdtnW3NekBHNGp8HD:wfC6Ye4tv76TI0huqfvHLa5qcF:Yw
+.example.com	TRUE	/	TRUE	1629893888	as_dc	ucp1
+
